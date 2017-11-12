@@ -1,2 +1,3 @@
 hello git!
 this is my first demo!
+git init add commit
